@@ -7,7 +7,7 @@ The project includes various visualizations to answer questions like:
 - What are the most common genres in the Netflix library ?
 - How has the content distribution changed over the years ?
 - Which countries have the highest number of Netflix titles ?
-- What is the average rating of movies and TV shows on Netflix?
+- What is the average rating of movies and TV shows on Netflix ?
 
 - The dataset used for this project is the Netflix Movies and TV Shows dataset available on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows). It contains information about various movies and TV shows available on Netflix, including attributes like title, director, cast, country, release year, rating, and more.
 
