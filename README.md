@@ -2,7 +2,7 @@
 Tableau Desktop
 The Netflix Data Analysis project utilizes Tableau to create interactive visualizations and dashboards based on the Netflix dataset. It provides insights into different aspects such as content distribution, genres, release dates, and ratings.
 
-The project includes various visualizations to answer questions like:
+The project includes various visualizations to answer questions like :-
 
 - What are the most common genres in the Netflix library ?
 - How has the content distribution changed over the years ?
