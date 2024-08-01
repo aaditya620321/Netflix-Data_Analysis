@@ -15,7 +15,7 @@ The project includes various visualizations to answer questions like:
 
 
 ## Contributing
-
+   
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to submit a pull request. Make sure to provide a detailed description of your changes.
 
 [MIT License](LICENSE).
